@@ -1,1 +1,1 @@
-# animated-background-vantajs
+# Animated Background - Vanta.js
